@@ -12,6 +12,8 @@
 int main(int argc, char * argv[]) {
     @autoreleasepool {
         return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
-        //注释添加测试
+        //注释添加测试 
+        //在测试一下 刚才不对
+        
     }
 }
